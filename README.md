@@ -1,0 +1,2 @@
+# Data-Warehousing-and-Business-Intelligence-for-a-Retail-Bank-
+Standardized and matched data from different branches to ensure consistency and eliminate duplicates. Developed a dimensional model and multi-dimensional data cubes to support complex analytical queries. Designed and implemented interactive dashboards and reports for executive and operational reporting, enhancing decision-making capabilities.
